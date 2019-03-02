@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+	//program login sederhana dengan if else
 	string username,password;
 	cout << "	Program Login Sederhana		"<<endl;
 	cout << "Masukan Username : ";cin >>username;
